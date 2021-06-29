@@ -1,0 +1,7 @@
+Hello Omar,
+I use my computer to communicate with Alice.
+Sometimes one enemy, called Darth, tries to sniff my messages to get info or analyze traffic for his unauthorized purposes.
+So could you please encrypt my messages?
+Thanks,
+Bob Something
+Information Security Character
