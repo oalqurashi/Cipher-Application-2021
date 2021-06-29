@@ -1,2 +1,3 @@
 # Cipher-Application-2021
-This was a project of Information Security course (CPCS-425, 2021 AD), where the user can either encrypt, or decrypt a file.
+- This is a source code of Cipher Application, where the user can either encrypt, or decrypt a file.
+- Choosing a file is by entering its name through the command-line interface (The file must be existed in the root of the program directory).
