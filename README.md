@@ -9,3 +9,6 @@
   <img width="1000" height="600" src="https://github.com/oalqurashi/Cipher-Application-2021/blob/main/screenshots/screenshot_app(3).jpg">
   <img width="1000" height="600" src="https://github.com/oalqurashi/Cipher-Application-2021/blob/main/screenshots/screenshot_test_result.jpg">
 </div>
+
+
+__(Note: This project is part of the CPCS-425 course i.e. Information Security, at King Abdulaziz University)__
